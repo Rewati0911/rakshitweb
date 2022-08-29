@@ -15,7 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+<<<<<<< HEAD
           Learn React 0.61 and test
+=======
+          Learn React 0.6
+>>>>>>> 1c857be1eafbedf787f235fce3b931a05a9bbca2
         </a>
       </header>
     </div>
